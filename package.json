@@ -1,0 +1,31 @@
+{
+  "name": "slideable-input-number",
+  "version": "1.0.0",
+  "description": "⁉ A simple class that allow users to change the value of a numeric input by clicking on it and sliding up and down.",
+  "author": {
+    "name": "Emmanuel Béziat",
+    "email": "contact@emmanuelbeziat.com"
+  },
+  "main": "index.js",
+  "scripts": {
+		"lint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelBeziat/slideable-input-number.git"
+  },
+  "keywords": [
+    "js",
+    "input",
+    "number"
+  ],
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/EmmanuelBeziat/slideable-input-number/issues"
+  },
+	"homepage": "https://github.com/EmmanuelBeziat/slideable-input-number#readme",
+	"devDependencies": {
+    "eslint": "^7.12.1",
+    "mocha": "^8.2.0"
+  }
+}
