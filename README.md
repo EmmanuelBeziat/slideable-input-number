@@ -5,6 +5,8 @@
 
 I’m really not sure. But if you need that, here it is.
 
+![Example](example.gif)
+
 # Install
 
 ```bash
